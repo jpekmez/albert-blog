@@ -22,7 +22,7 @@ sections:
     url: https://builder.albert.education
   component: ContentBlock
   content: Crée ton espace enseignant et tes propres cours et exercices.
-  image: ''
+  image: "/images/part2_point3.png"
 - type: postsblock
   template: postsblock
   title: Recent Posts
