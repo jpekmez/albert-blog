@@ -7,7 +7,7 @@ sections:
   component: HeroBlock
   content: Tous les jours, des énigmes de français, logique, mathématiques etc...
     pour garder l’esprit vif ⚡ et te préparer aux escape games !
-  title: ''
+  title: Entraîne-toi avec Albert
   actions:
   - label: iOS
     url: https://apps.apple.com/app/id1364403760
