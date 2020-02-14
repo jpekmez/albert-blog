@@ -21,7 +21,7 @@ sections:
   - label: Créer mon compte enseignant
     url: https://builder.albert.education
   component: ContentBlock
-  content: Crée ton espace enseignant et tes propres cours et exercices.
+  content: Crée ton espace de travail et tes propres cours et exercices.
   image: ''
 - type: postsblock
   template: postsblock
