@@ -21,10 +21,9 @@ sections:
   - label: Créer mon compte enseignant
     url: https://builder.albert.education
   component: ContentBlock
-  content: |-
-    Quelques clics suffisent pour ajouter tes propres cours et exercices.
-
-    Tu peux suivre l'activité des élèves , et repérer facilement les forces et faiblesses de chacun.
+  content: "Crée ton espace de travail maintenant et en quelques clics ajoute tes
+    propres cours et exercices. \n\nTu pourra suivre l'activité des élèves , et repérer
+    facilement les forces et faiblesses de chacun."
   image: ''
 - type: postsblock
   template: postsblock
