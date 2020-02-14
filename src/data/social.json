@@ -13,22 +13,10 @@
       "url": "https://www.instagram.com/albert.education"
     },
     {
-      "type": "github",
-      "title": "GitHub",
-      "icon": "fa-github",
-      "url": "https://github.com/"
-    },
-    {
-      "type": "linkedin",
-      "title": "LinkedIn",
-      "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/"
-    },
-    {
       "type": "devto",
       "title": "DEV",
-      "icon": "fa-dev",
-      "url": "https://dev.to/"
+      "icon": "fa-facebook",
+      "url": "http://facebook.com/alberteducation"
     }
   ]
 }
