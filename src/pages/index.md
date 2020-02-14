@@ -15,16 +15,13 @@ sections:
     url: https://play.google.com/store/apps/details?id=com.kwixer.albert.challenge
 - type: contentblock
   template: contentblock
-  title: About
+  title: Un compagnon aussi pour les enseignants
   section_id: about
   actions:
-  - label: Contact Me
-    url: "/contact"
+  - label: Créer mon compte
+    url: https://builder.albert.education
   component: ContentBlock
-  content: This is the "about" excerpt. It can be used to provide a paragraph about
-    yourself that people can read on the homepage to get a sense of who you are. There
-    also exists a dedicated about page where you can write more about yourself for
-    those who are interested.
+  content: Crée ton espace enseignant et tes propres cours et exercices.
   image: ''
 - type: postsblock
   template: postsblock
