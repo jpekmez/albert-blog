@@ -25,10 +25,10 @@ sections:
   image: "/images/part2_point3.png"
 - type: postsblock
   template: postsblock
-  title: Recent Posts
+  title: Posts récents
   section_id: recent-posts
   actions:
-  - label: View Blog
+  - label: Continuer
     url: blog/index.html
   component: PostsBlock
   num_posts_displayed: 4
