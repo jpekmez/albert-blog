@@ -5,6 +5,8 @@ menus:
     title: Contact
     weight: 5
 template: contact
----
+subtitle: ''
+img_path: ''
 
-To get in touch fill the form below.
+---
+Pour nous contacter, remplissez le formulaire ci-dessous.
