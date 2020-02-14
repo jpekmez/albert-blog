@@ -18,7 +18,7 @@ sections:
   title: Un compagnon aussi pour les enseignants
   section_id: about
   actions:
-  - label: Créer mon compte
+  - label: Créer mon compte enseignant
     url: https://builder.albert.education
   component: ContentBlock
   content: Crée ton espace enseignant et tes propres cours et exercices.
