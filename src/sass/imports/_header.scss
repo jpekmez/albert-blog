@@ -49,9 +49,12 @@
   }
 
   .avatar {
-    border: 2px solid _palette(accent);
-    box-shadow: 0 0 1px 7px rgba(_palette(accent),.2);
-    border-radius: 100%;
+    // border: 2px solid _palette(accent);
+    // box-shadow: 0 0 1px 7px rgba(_palette(accent),.2);
+    // border-radius: 100%;
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
     display: block;
     object-fit: cover;
     height: 45px;
