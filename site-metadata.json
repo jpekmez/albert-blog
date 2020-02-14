@@ -1,12 +1,12 @@
 {
   "title": "Albert Education",
-  "layout_style": "default",
+  "layout_style": "overflow",
   "palette": "blue",
   "header": {
     "title": "Albert Education",
     "tagline": "Ton compagnon amusant et éducatif",
     "profile_img": "/images/adobt_albert.png",
-    "bg": "light",
+    "bg": "dark",
     "has_nav": true,
     "has_social": true
   },
