@@ -1,11 +1,12 @@
 ---
 template: post
-title: Lancement d'Albert Education pour les enseignants
-subtitle: Une plateforme numérique éducative
+title: Albert Education pour les enseignants
+subtitle: Plateforme numérique éducative à découvrir gratuitement
 date: 2021-01-16T15:08:00Z
-thumb_img_path: "/images/lancement.png"
-content_img_path: "/images/lancement.png"
-excerpt: ''
+thumb_img_path: "/images/banner.png"
+content_img_path: "/images/banner.png"
+excerpt: Créez des resources numériques ou importer nos progressions pour vos élèves
+  apprennent en s'amusant en toute autonomie
 canonical_url: ''
 
 ---
