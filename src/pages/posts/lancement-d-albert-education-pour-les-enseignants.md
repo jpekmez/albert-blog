@@ -2,7 +2,7 @@
 template: post
 title: Lancement d'Albert Education pour les enseignants
 subtitle: Une plateforme numérique éducative
-date: 2021-01-15T23:00:00Z
+date: 2021-01-16T15:08:00Z
 thumb_img_path: "/images/lancement.png"
 content_img_path: "/images/lancement.png"
 excerpt: ''
