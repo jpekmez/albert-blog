@@ -10,7 +10,7 @@ excerpt: Créez des resources numériques ou importer nos progressions pour que 
 canonical_url: ''
 
 ---
-Inscription gratuite à [Albert Education](https://builder.albert.education "builder")
+#### Inscription gratuite à [Albert Education](https://builder.albert.education "builder")
 
 **Introduction**
 
