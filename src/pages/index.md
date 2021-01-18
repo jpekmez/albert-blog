@@ -22,7 +22,7 @@ sections:
     url: https://builder.albert.education
   component: ContentBlock
   content: Crée ton espace de travail maintenant et en quelques clics ajoute tes propres
-    cours et exercices. Tu pourra suivre l'activité des élèves , et repérer facilement
+    cours et exercices. Tu pourras suivre l'activité des élèves , et repérer facilement
     les forces et faiblesses de chacun.
   image: ''
 - type: postsblock
