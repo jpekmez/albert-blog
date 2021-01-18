@@ -10,6 +10,8 @@ excerpt: Créez des resources numériques ou importer nos progressions pour que 
 canonical_url: ''
 
 ---
+Inscription gratuite à [Albert Education](https://builder.albert.education "builder")
+
 **Introduction**
 
 En tant qu’enseignant, nous nous sommes tous déjà demandé à quoi servaient les corrections de copies d’élèves que nous faisons à la chaîne chez nous (mots invariables, calcul mental...et bien d’autres encore). Les élèves regardent-ils leurs copies en se demandant comment s’améliorer ou simplement la note et le commentaire? Bref...l’intérêt n’est pas évident. Et puis, nous n’aimons pas rendre des copies toutes rouges et l’impact sur les élèves n’est, la plupart du temps, pas très bénéfique. Pourquoi ne pourraient-ils pas recommencer pour s’améliorer ?
