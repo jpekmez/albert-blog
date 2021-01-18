@@ -2,7 +2,7 @@
 template: post
 title: Albert Education pour les enseignants
 subtitle: Plateforme numérique éducative à découvrir gratuitement
-date: 2021-01-16T15:31:00Z
+date: 2021-01-18T21:16:00Z
 thumb_img_path: "/images/banner.png"
 content_img_path: "/images/banner.png"
 excerpt: Créez des resources numériques ou importer nos progressions pour que vos
