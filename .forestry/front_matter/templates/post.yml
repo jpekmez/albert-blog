@@ -42,3 +42,4 @@ fields:
     required: true
 pages:
 - src/pages/posts/lancement-d-albert-education-pour-les-enseignants.md
+- src/pages/posts/test.md
