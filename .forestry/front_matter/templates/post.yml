@@ -41,4 +41,5 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/comment-creer-une-story-de-quiz.md
 - src/pages/posts/lancement-d-albert-education-pour-les-enseignants.md
