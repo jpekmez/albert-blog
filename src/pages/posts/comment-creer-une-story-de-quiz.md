@@ -5,7 +5,7 @@ subtitle: Petit tutoriel en vidéo
 date: 2021-01-25T19:30:00Z
 thumb_img_path: "/images/quiz-noms-propres-communs.PNG"
 content_img_path: ''
-excerpt: ''
+excerpt: Créer une story de quiz en quelques minutes
 canonical_url: ''
 
 ---
@@ -25,7 +25,7 @@ Avec de **multiples possibilités** :
 
 **Un conseil** : commencez de façon simple pour vous faire la main et ajoutez les options petit à petit !
 
-Rédigé par Audrey 
+Rédigé par Audrey
 
 <!-- youtube.snippet -->
-<iframe width="560" height="315" src="https://youtu.be/HBOZo7SajbI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HBOZo7SajbI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
